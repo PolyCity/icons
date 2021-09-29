@@ -1,4 +1,4 @@
-# SushiSwap Icons
+# PolyCityDex Icons
 
 # Adding a token
 
